@@ -94,7 +94,8 @@ Our orientation program is designed to introduce you to the club, its members, a
 ---
 
 ## 📚 Explore More
-- [About Us](./pages/ABOUT.md)  
+- [Home](./README.md)  
+- [About Us](../pages/ABOUT.md)  
 - [Events](Events.md)  
 - [Members](Members.md)  
 - [Alumni](Alumni.md)  

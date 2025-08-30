@@ -120,7 +120,8 @@ Our goal is to equip members with **skills and connections** to succeed academic
 ---
 
 ## 📚 Explore More
-- [About Us](./pages/ABOUT.md)  
+- [Home](./README.md)  
+- [About Us](../pages/ABOUT.md)  
 - [Events](Events.md)  
 - [Members](Members.md)  
 - [Alumni](Alumni.md)  
