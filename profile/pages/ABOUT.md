@@ -68,15 +68,43 @@
 
 ## Club Details  
 
-- **Teacher Founder:** Prasanjit Maji  
-- **Student Founders:**  
-  - Hari Om  
-  - Shuvajit Dey  
-  - Aadarsh Choudhary  
-  - Rakesh Singh  
-  - Anurag Anand  
+## <p>Founders</p>  
 
-- **Founded in:** 2016  
+### <p>Teacher Founder :</p>  
+
+<p align="center">
+  <img src="../assets/founder/Prasanjit_Maji.jpg" alt="Teacher Founder" style="border-radius:50%; width:120px; height:120px;"><br>
+  <b>Prasanjit Maji</b><br><i>Teacher Founder</i>
+</p>
+
+### <p>Student Founders :</p>  
+
+<table align="center">
+  <tr>
+    <td align="center">
+      <img src="../assets/founder/hari_om.jpg" alt="Hari Om" style="border-radius:50%; width:120px; height:120px;"><br>
+      <b>Hari Om</b>
+    </td>
+    <td align="center">
+      <img src="../assets/founder/shuvajit_dey.jpg" alt="Shuvajit Dey" style="border-radius:50%; width:120px; height:120px;"><br>
+      <b>Shuvajit Dey</b>
+    </td>
+    <td align="center">
+      <img src="../assets/founder/adarsh_choudhury.jpg" alt="Aadarsh Choudhary" style="border-radius:50%; width:120px; height:120px;"><br>
+      <b>Aadarsh Choudhary</b>
+    </td>
+  </tr>
+  <tr>
+    <td align="center">
+      <img src="../assets/founder/rakesh_singh.jpg" alt="Rakesh Singh" style="border-radius:50%; width:120px; height:120px;"><br>
+      <b>Rakesh Singh</b>
+    </td>
+    <td align="center">
+      <img src="../assets/founder/anurag_anand.jpg" alt="Anurag Anand" style="border-radius:50%; width:120px; height:120px;"><br>
+      <b>Anurag Anand</b>
+    </td>
+  </tr>
+</table>
 
 - **Roles:**  
   - Final Year: Governors  
