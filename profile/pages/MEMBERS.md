@@ -19,9 +19,6 @@
   <a href="../pages/GALLERY.md">
     <img src="https://img.shields.io/badge/Gallery-FF0000?style=for-the-badge" alt="Gallery"/>
   </a>
-  <a href="../pages/CONTACTUS.md">
-    <img src="https://img.shields.io/badge/Contact%20Us-FF0000?style=for-the-badge" alt="Contact Us"/>
-  </a>
 </p>
 
 # <p align="center">Members </p> 
@@ -112,7 +109,6 @@
 - [Members](../pages/MEMBERS.md)  
 - [Alumni](../pages/ALUMNI.md)  
 - [Gallery](../pages/GALLERY.md)  
-- [Contact Us](../pages/CONTACTUS.md)  
 
 ---
 
