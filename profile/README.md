@@ -1,27 +1,36 @@
 <!-- | [Home](./README.md) | [About Us](AboutUs.md) | [Events](Events.md) | [Members](Members.md) | [Alumni](Alumni.md) | [Gallery](Gallery.md) | [Contact Us](ContactUs.md) |
 |------------------------|------------------------|---------------------|-----------------------|---------------------|-----------------------|----------------------------| -->
-<p align="center">
-  <a href="Home.md">
-    <img src="https://img.shields.io/badge/Home-FF0000?style=for-the-badge" alt="Home"/>
-  </a>
-  <a href="AboutUs.md">
-    <img src="https://img.shields.io/badge/About%20Us-FF0000?style=for-the-badge" alt="About Us"/>
-  </a>
-  <a href="Events.md">
-    <img src="https://img.shields.io/badge/Events-FF0000?style=for-the-badge" alt="Events"/>
-  </a>
-  <a href="Members.md">
-    <img src="https://img.shields.io/badge/Members-FF0000?style=for-the-badge" alt="Members"/>
-  </a>
-  <a href="Alumni.md">
-    <img src="https://img.shields.io/badge/Alumni-FF0000?style=for-the-badge" alt="Alumni"/>
-  </a>
-  <a href="Gallery.md">
-    <img src="https://img.shields.io/badge/Gallery-FF0000?style=for-the-badge" alt="Gallery"/>
-  </a>
-  <a href="ContactUs.md">
-    <img src="https://img.shields.io/badge/Contact%20Us-FF0000?style=for-the-badge" alt="Contact Us"/>
-  </a>
+<p align="center" style="display: flex; align-items: center; justify-content: space-between;">
+  <!-- Left side (Logos) -->
+  <span style="display: flex; align-items: center;">
+    <img src="./assets/logo/logo main.png" alt="Code Vision Logo Small" width="50" height="40" style="border-radius: 8px;"/>
+    <img src="./assets/logo/logo.png" alt="Code Vision Logo" width="200" style="margin-left: 10px;"/>
+  </span>
+
+  <!-- Right side (Nav links) -->
+  <span>
+    <a href="Home.md">
+      <img src="https://img.shields.io/badge/Home-FF0000?style=for-the-badge" alt="Home"/>
+    </a>
+    <a href="AboutUs.md">
+      <img src="https://img.shields.io/badge/About%20Us-FF0000?style=for-the-badge" alt="About Us"/>
+    </a>
+    <a href="Events.md">
+      <img src="https://img.shields.io/badge/Events-FF0000?style=for-the-badge" alt="Events"/>
+    </a>
+    <a href="Members.md">
+      <img src="https://img.shields.io/badge/Members-FF0000?style=for-the-badge" alt="Members"/>
+    </a>
+    <a href="Alumni.md">
+      <img src="https://img.shields.io/badge/Alumni-FF0000?style=for-the-badge" alt="Alumni"/>
+    </a>
+    <a href="Gallery.md">
+      <img src="https://img.shields.io/badge/Gallery-FF0000?style=for-the-badge" alt="Gallery"/>
+    </a>
+    <a href="ContactUs.md">
+      <img src="https://img.shields.io/badge/Contact%20Us-FF0000?style=for-the-badge" alt="Contact Us"/>
+    </a>
+  </span>
 </p>
 
 
