@@ -1,7 +1,7 @@
 <!-- | [Home](./README.md) | [About Us](AboutUs.md) | [Events](Events.md) | [Members](Members.md) | [Alumni](Alumni.md) | [Gallery](Gallery.md) | [Contact Us](ContactUs.md) |
 |------------------------|------------------------|---------------------|-----------------------|---------------------|-----------------------|----------------------------| -->
 <p align="center" width="100%">
-  <a href="./README.md">
+  <a href="../README.md">
     <img src="https://img.shields.io/badge/Home-FF0000?style=for-the-badge" alt="Home"/>
   </a>
   <a href="AboutUs.md">
@@ -120,7 +120,7 @@ Our goal is to equip members with **skills and connections** to succeed academic
 ---
 
 ## 📚 Explore More
-- [Home](./README.md)  
+- [Home](../README.md)  
 - [About Us](../pages/ABOUT.md)  
 - [Events](Events.md)  
 - [Members](Members.md)  
