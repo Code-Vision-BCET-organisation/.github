@@ -24,17 +24,87 @@
   </a>
 </p>
 
+# Members  
+## Meet our Team  
 
+---
 
+## 👨‍🎓 Governors (4th Year)  
 
+| Name              | Branch |
+|-------------------|--------|
+| Abhimanyu Singh   | CSE    |
+| Anirban Saha      | CSE    |
+| Arnab Mukherjee   | CSE    |
+| Ayush Kumar       | IT     |
+| Indrajit Samanta  | CSE    |
+| Jaya Gorai        | IT     |
+| Kanu Priya        | CSE    |
+| Karishma Singh    | CSE    |
+| Khushi Saumya     | CSE    |
+| Kumari Priyanshu  | CSE    |
+| Mahreen Rizvi     | CSE    |
+| Mayank Rana       | CSE    |
+| Nikita Kumari     | IT     |
+| Nikita Raj        | CSE    |
+| Nourin Khatun     | IT     |
+| Prerna Shree      | IT     |
+| Priyabrata Dey    | IT     |
+| Priyanshu Pandey  | IT     |
+| Richa             | CSE    |
+| Richa Raj         | CSE    |
+| Rup Kumar Biswas  | CSE    |
+| Sanjeevan Nag     | IT     |
+| Sayan Mukherjee   | CSE    |
+| Smriti            | IT     |
 
+---
 
+## 👩‍🎓 Organizers (3rd Year)  
 
+| Name                 | Branch      |
+|----------------------|-------------|
+| Aaryan Suman         | CSE         |
+| Anand Kumar          | CSE         |
+| Anand Raj            | CSE         |
+| Ayush Vishnu Kumar   | CSE         |
+| Deepti Kumari        | IT          |
+| Deepti Shubha        | IT          |
+| Gaurav Chandravanshi | IT          |
+| Gokul Sahoo          | CSE         |
+| Khushi Singh         | CSE         |
+| Komal Rani           | CSE         |
+| Manas Kumar Mishra   | CSE         |
+| Manish Kumar Sahu    | IT          |
+| Md Soheb Ansari      | CSE         |
+| Muskan Kumari        | CSE         |
+| Pragati Gupta        | CSE         |
+| Prince Jha           | CSE         |
+| Ritee Singh          | CSE         |
+| Sadhna Jha           | CSE         |
+| Sepal Sagar          | CSE         |
+| Shalu Kumari         | CSE         |
+| Shashi Ranjan        | IT          |
+| Shivam Kumar         | CSE         |
+| Sneha Kumari         | CSE (AI/ML) |
+| Sudhanshu Kumar      | IT          |
+| Sunakshi Kumari      | IT          |
+| Vinit Kumar Mandal   | CSE         |
+| Vinod Kumar          | CSE         |
+| Vivek Kumar          | CSE         |
+| Vivek Kumar Gupta    | CSE         |
 
+---
 
+<!-- ## 👩‍🎓 Coordinator (2nd Year)  
 
-
-
+| Name                 | Branch      |
+|----------------------|-------------|
+| <Name>      | <Branch>        |
+| <Name>      | <Branch>        |
+| <Name>      | <Branch>        |
+| <Name>      | <Branch>        |
+| <Name>      | <Branch>        | -->
 
 
 ## 📚 Explore More
