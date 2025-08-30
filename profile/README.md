@@ -14,8 +14,8 @@ Our orientation program is designed to introduce you to the club, its members, a
 
 👉 Join us to learn more about our **mission, vision, and upcoming events.**  
 
-### ▶️ Orientation Video  
-[![Watch Orientation Video](https://img.youtube.com/vi/ysz5S6PUM-U/maxresdefault.jpg)](https://www.youtube.com/watch?v=ysz5S6PUM-U)  
+[![Orientation Video](https://img.youtube.com/vi/Zie1uLbLEUA/maxresdefault.jpg)](https://youtu.be/Zie1uLbLEUA)
+
 
 ---
 
