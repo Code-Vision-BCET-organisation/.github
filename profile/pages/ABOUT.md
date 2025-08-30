@@ -4,7 +4,7 @@
   <a href="../README.md">
     <img src="https://img.shields.io/badge/Home-FF0000?style=for-the-badge" alt="Home"/>
   </a>
-  <a href="AboutUs.md">
+  <a href="../pages/ABOUT.md">
     <img src="https://img.shields.io/badge/About%20Us-FF0000?style=for-the-badge" alt="About Us"/>
   </a>
   <a href="Events.md">
