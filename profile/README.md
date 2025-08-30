@@ -1,10 +1,10 @@
-# ![Code Vision Logo](https://via.placeholder.com/150x80?text=Code+Vision+Logo)
+<p align="center">
+  <img src="./assets/logo/logo.png" alt="Code Vision Logo" width="200" />
+  <br>
+<i>To promote coders enriched with diverse technical skills.</i>
+<br> 
+✨ <b>Join CV to enhance your CV.</b> ✨</p>
 
-# 🚀 Code Vision  
-**An Abode for Coders.**  
-_To promote coders enriched with diverse technical skills._  
-
-✨ **Join CV to enhance your CV.**
 
 ---
 
@@ -13,7 +13,7 @@ Welcome to **CODE VISION**!
 Our orientation program is designed to introduce you to the club, its members, and the various activities we offer.  
 
 👉 Join us to learn more about our **mission, vision, and upcoming events.**  
-
+### ▶️ Watch Orientation Video
 [![Orientation Video](https://img.youtube.com/vi/Zie1uLbLEUA/maxresdefault.jpg)](https://youtu.be/Zie1uLbLEUA)
 
 
@@ -21,18 +21,25 @@ Our orientation program is designed to introduce you to the club, its members, a
 
 ## 🎉 Upcoming Event
 ### 🏆 CODEJAM 2025  
+![CodeJam 2025 Poster](./assets/Upcoming%20Event%20Poster/poster.jpg) 
+
 _A hackathon with the theme **“Tech for Good”**, encouraging teams to create impactful solutions to real-world problems._  
 
 📌 **Details:**  
 - **Date:** 8 September 2025  
 - **Format:** Teams of 4 undergraduates  
 - **Activities:** Mentorship, Demo Submissions, Networking  
-- **Rewards:** 🥇 Trophies | 🏅 Badges | ✨ Special Mentions  
+- **Rewards:** 🥇 Trophies | 🏅 Badges | ✨ Special Mentions 
 
-🖼️ **Event Poster**  
-![CodeJam 2025 Poster](https://via.placeholder.com/600x300?text=CODEJAM+2025+Poster)  
+<p align="center">
+  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgL_U1tVwkdQTU8zlUhMlFieFdk-lJ7IsJS66Mc7M8aTuISA/viewform" target="_blank">
+    <img src="https://img.shields.io/badge/Register%20Now-FF0000?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Register Now"/>
+  </a>
+</p>
+  
 
----
+
+<!-- ---
 
 ## 🏆 Our Achievements
 - 👥 **195+ Active Members**  
@@ -40,7 +47,7 @@ _A hackathon with the theme **“Tech for Good”**, encouraging teams to create
 - 🎓 **3,500+ Participants**  
 - 🌍 **1,363+ Site Visits**  
 
----
+--- -->
 
 ## 🌟 Why Join CODE VISION?
 ✅ Gain Knowledge & Learn New Skills  
