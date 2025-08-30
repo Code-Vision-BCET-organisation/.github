@@ -14,12 +14,7 @@ Our orientation program is designed to introduce you to the club, its members, a
 
 👉 Join us to learn more about our **mission, vision, and upcoming events.**  
 ### ▶️ Watch Orientation Video
-<!-- [![Orientation Video](https://img.youtube.com/vi/Zie1uLbLEUA/maxresdefault.jpg)](https://youtu.be/Zie1uLbLEUA) -->
-<iframe width="560" height="315" 
-src="https://www.youtube.com/embed/Zie1uLbLEUA?autoplay=1&mute=1" 
-title="YouTube video player" frameborder="0" 
-allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" 
-allowfullscreen></iframe>
+[![Orientation Video](https://img.youtube.com/vi/Zie1uLbLEUA/maxresdefault.jpg)](https://youtu.be/Zie1uLbLEUA)
 
 ---
 # 🎉 Upcoming Event
