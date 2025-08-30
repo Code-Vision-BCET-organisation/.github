@@ -32,10 +32,12 @@ Our orientation program is designed to introduce you to the club, its members, a
       <p><em>A hackathon with the theme <strong>“Tech for Good”</strong>, encouraging teams to create impactful solutions to real-world problems.</em></p>
       <h4>📌 Details:</h4>
       <ul>
-        <li><strong>Date:</strong> 8 September 2025</li>
-        <li><strong>Format:</strong> Teams of 4 undergraduates</li>
+        <li><strong>Date:</strong> 8th & 9th September 2025</li>
+        <li><strong>Format:</strong> Teams of 4 members compete</li>
+        <li><strong>Focus:</strong> Solve real-world problems using coding and logic.</li>
         <li><strong>Activities:</strong> Mentorship, Demo Submissions, Networking</li>
-        <li><strong>Rewards:</strong> 🥇 Trophies | 🏅 Badges | ✨ Special Mentions</li>
+        <li><strong>Rewards:</strong> 🥇 Trophies | 🏅 Badges </li>
+        <li>Open to <strong>all years</strong> everyone can participate</li>
       </ul>
       <p align="center">
         <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgL_U1tVwkdQTU8zlUhMlFieFdk-lJ7IsJS66Mc7M8aTuISA/viewform" target="_blank">
