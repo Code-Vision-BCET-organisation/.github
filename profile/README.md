@@ -16,28 +16,35 @@ Our orientation program is designed to introduce you to the club, its members, a
 ### ▶️ Watch Orientation Video
 [![Orientation Video](https://img.youtube.com/vi/Zie1uLbLEUA/maxresdefault.jpg)](https://youtu.be/Zie1uLbLEUA)
 
-
 ---
+# 🎉 Upcoming Event
 
-## 🎉 Upcoming Event
-### 🏆 CODEJAM 2025  
-![CodeJam 2025 Poster](./assets/Upcoming%20Event%20Poster/poster.jpg) 
-
-_A hackathon with the theme **“Tech for Good”**, encouraging teams to create impactful solutions to real-world problems._  
-
-📌 **Details:**  
-- **Date:** 8 September 2025  
-- **Format:** Teams of 4 undergraduates  
-- **Activities:** Mentorship, Demo Submissions, Networking  
-- **Rewards:** 🥇 Trophies | 🏅 Badges | ✨ Special Mentions 
-
-<p align="center">
-  <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgL_U1tVwkdQTU8zlUhMlFieFdk-lJ7IsJS66Mc7M8aTuISA/viewform" target="_blank">
-    <img src="https://img.shields.io/badge/Register%20Now-FF0000?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Register Now"/>
-  </a>
-</p>
-  
-
+<table>
+  <tr>
+    <td width="50%">
+      <!-- Poster Image -->
+      <img src="./assets/Upcoming%20Event%20Poster/poster.jpg" alt="CodeJam 2025 Poster" width="100%">
+    </td>
+    <td width="50%" valign="top">
+      <!-- Event Details -->
+      <!-- <h2></h2> -->
+      <h1>🏆 CODEJAM 2025</h1>
+      <p><em>A hackathon with the theme <strong>“Tech for Good”</strong>, encouraging teams to create impactful solutions to real-world problems.</em></p>
+      <h4>📌 Details:</h4>
+      <ul>
+        <li><strong>Date:</strong> 8 September 2025</li>
+        <li><strong>Format:</strong> Teams of 4 undergraduates</li>
+        <li><strong>Activities:</strong> Mentorship, Demo Submissions, Networking</li>
+        <li><strong>Rewards:</strong> 🥇 Trophies | 🏅 Badges | ✨ Special Mentions</li>
+      </ul>
+      <p align="center">
+        <a href="https://docs.google.com/forms/d/e/1FAIpQLSdgL_U1tVwkdQTU8zlUhMlFieFdk-lJ7IsJS66Mc7M8aTuISA/viewform" target="_blank">
+          <img src="https://img.shields.io/badge/Register%20Now-FF0000?style=for-the-badge&logo=Google-chrome&logoColor=white" alt="Register Now"/>
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
 
 <!-- ---
 
