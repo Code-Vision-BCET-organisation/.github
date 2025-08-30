@@ -30,8 +30,9 @@
 ---
 
 ## 🎓 2025 Passout  
-| Aditya Kumar | Ahana Mandal | Amit Kumar Mondal |
+|  |  |  |
 |--------------|--------------|-------------------|
+| Aditya Kumar | Ahana Mandal | Amit Kumar Mondal |
 | Anish Jaiswal | Ankur Dixit | Anshu Raj |
 | Arpana Kumari | Bajrang Kumar | Bijay Kumar Yadav |
 | Harsh Thakur | Md Navil Ahmad | Mohammad Rashid Anwar |
@@ -44,8 +45,9 @@
 ---
 
 ## 🎓 2024 Passout  
-| Abhishek Jha | Animesh Mondal | Aniruddha Pal |
+|  |  |  |
 |--------------|----------------|---------------|
+| Abhishek Jha | Animesh Mondal | Aniruddha Pal |
 | Anjali Jha | Avinash Kumar | Diwakar Kumar |
 | Guddu Kumar | Gulabsha Khatun | Karan Kumar |
 | Manish Kumar | Meenakshi Sinha | Namrata Nimmi |
@@ -55,8 +57,9 @@
 ---
 
 ## 🎓 2023 Passout  
-| Abhay Anand | Abhishek Kumar Ghosh | Aditi Shree |
+|  |  |  |
 |-------------|-----------------------|-------------|
+| Abhay Anand | Abhishek Kumar Ghosh | Aditi Shree |
 | Aman Jha | Anchit Chandra | Ankit Jaiswal |
 | Ayushi Kumari | Devesh Tiwary | Harsh |
 | Himanshu Shekhar | Pranav Kumar | Pratyush Kumar |
@@ -66,8 +69,9 @@
 ---
 
 ## 🎓 2022 Passout  
-| Aftab Mustafa | Aniket Jha | Anjali Kumari |
+|  |  |  |
 |---------------|------------|---------------|
+| Aftab Mustafa | Aniket Jha | Anjali Kumari |
 | Ankita Ray | Ankita Senapati | Anuradha Singh |
 | Bijeyta | Debangan Roy | Depti Kumari |
 | Hrithik Kumar | Misha Sambhavi | Mohammad Wasim Arham |
@@ -79,8 +83,9 @@
 ---
 
 ## 🎓 2021 Passout  
-| Shalini Kumari | Anurag Kumar Choudhary | Rachna Kumari |
+|  |  |  |
 |----------------|--------------------------|---------------|
+| Shalini Kumari | Anurag Kumar Choudhary | Rachna Kumari |
 | Apurba Ghosh | Yash Jha | Ashutosh Kumar |
 | Dhrubajyoti Das | Shubhojeet Banerjee | Sarika Kumari |
 | Kumari Shruti | Subhash Kumar | Soif Akhter |
@@ -92,8 +97,9 @@
 ---
 
 ## 🎓 2020 Passout  
-| Sounak Chatterjee | Amar Jyoti | Bidika Agarwal |
+|  |  |  |
 |-------------------|------------|----------------|
+| Sounak Chatterjee | Amar Jyoti | Bidika Agarwal |
 | Jahanvi Chandra | Himani Pratyush | Prashar Saket |
 | Saket | Tumpa Das | Smitty Pandey |
 | Rohit Sarkar | Subhodeep Seal | Sourav Kumar |
@@ -103,22 +109,25 @@
 ---
 
 ## 🎓 2019 Passout  
-| Anurag Sharma | Roshan Choudhary | Rohit Singh |
+|  |  |  |
 |---------------|------------------|-------------|
+| Anurag Sharma | Roshan Choudhary | Rohit Singh |
 | Sourav Roy Choudhary | Shubham Dhann Suman | |
 
 ---
 
 ## 🎓 2018 Passout  
-| Ashutosh Kashyap | Shristi Singh | Prasanjeet Anand |
+|  |  |  |
 |------------------|---------------|------------------|
+| Ashutosh Kashyap | Shristi Singh | Prasanjeet Anand |
 | Shubham Ghosh | Sweety Seth | Shruti Dixit |
 
 ---
 
 ## 🎓 2017 Passout  
-| Shuvajit Dey | Rakesh Singh | Hari Om |
+|  |  |  |
 |--------------|--------------|---------|
+| Shuvajit Dey | Rakesh Singh | Hari Om |
 | Aadarsh Choudhary | Anurag Anand | |
 
 ---
