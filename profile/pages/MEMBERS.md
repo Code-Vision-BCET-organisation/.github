@@ -29,8 +29,6 @@
 
 ## 👨‍🎓 Governors (4th Year)  
 
-<div style="max-height: 500px; overflow-y: auto;">
-
 | Name              | Branch |
 |-------------------|--------|
 | Abhimanyu Singh   | CSE    |
@@ -58,12 +56,9 @@
 | Sayan Mukherjee  | CSE    |
 | Smriti           | IT     |
 
-</div>
-
 ---
 
 ## 👩‍🎓 Organizers (3rd Year) 
-<div style="max-height: 500px; overflow-y: auto;"> 
 
 | Name               | Branch |
 |--------------------|--------|
@@ -97,13 +92,9 @@
 | Vivek Kumar       | CSE         |
 | Vivek Kumar Gupta | CSE         |
 
-</div>
-
 ---
 
 <!-- ## 👩‍🎓 Coordinator (2nd Year)  
-
-<div style="max-height: 500px; overflow-y: auto;">
 
 | Name                 | Branch      |
 |----------------------|-------------|
