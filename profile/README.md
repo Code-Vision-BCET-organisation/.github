@@ -1,12 +1,79 @@
-## Hi there from CODEVISION 👋
+# ![Code Vision Logo](https://via.placeholder.com/150x80?text=Code+Vision+Logo)
 
-<!--
+# 🚀 Code Vision  
+**An Abode for Coders.**  
+_To promote coders enriched with diverse technical skills._  
 
-**Here are some ideas to get you started:**
+✨ **Join CV to enhance your CV.**
 
-🙋‍♀️ A short introduction - what is your organization all about?
-🌈 Contribution guidelines - how can the community get involved?
-👩‍💻 Useful resources - where can the community find your docs? Is there anything else the community should know?
-🍿 Fun facts - what does your team eat for breakfast?
-🧙 Remember, you can do mighty things with the power of [Markdown](https://docs.github.com/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax)
--->
+---
+
+## 🎥 Orientation
+Welcome to **CODE VISION**!  
+Our orientation program is designed to introduce you to the club, its members, and the various activities we offer.  
+
+👉 Join us to learn more about our **mission, vision, and upcoming events.**  
+
+[![Orientation Video](https://img.youtube.com/vi/Zie1uLbLEUA/maxresdefault.jpg)](https://youtu.be/Zie1uLbLEUA)
+
+
+---
+
+## 🎉 Upcoming Event
+### 🏆 CODEJAM 2025  
+_A hackathon with the theme **“Tech for Good”**, encouraging teams to create impactful solutions to real-world problems._  
+
+📌 **Details:**  
+- **Date:** 8 September 2025  
+- **Format:** Teams of 4 undergraduates  
+- **Activities:** Mentorship, Demo Submissions, Networking  
+- **Rewards:** 🥇 Trophies | 🏅 Badges | ✨ Special Mentions  
+
+🖼️ **Event Poster**  
+![CodeJam 2025 Poster](https://via.placeholder.com/600x300?text=CODEJAM+2025+Poster)  
+
+---
+
+## 🏆 Our Achievements
+- 👥 **195+ Active Members**  
+- 🎪 **28+ Total Events**  
+- 🎓 **3,500+ Participants**  
+- 🌍 **1,363+ Site Visits**  
+
+---
+
+## 🌟 Why Join CODE VISION?
+✅ Gain Knowledge & Learn New Skills  
+✅ Build Leadership & Communication Skills  
+✅ Enhance Your Coding Skills  
+✅ Network with Peers & Mentors  
+
+---
+
+## 📚 Explore More
+- [About Us](AboutUs.md)  
+- [Events](Events.md)  
+- [Members](Members.md)  
+- [Alumni](Alumni.md)  
+- [Gallery](Gallery.md)  
+- [Contact Us](ContactUs.md)  
+
+---
+
+## 📬 Contact Us
+📧 Email: [codevisionafc@gmail.com](mailto:codevisionafc@gmail.com)  
+📞 Phone: +91 6299059583 (SCO)  
+
+🏛️ Address:  
+1st floor, Dept. of CSE, Computer Science and Engineering Block,  
+Bengal College of Engineering and Technology, Durgapur, West Bengal - 713212  
+
+---
+
+## 🌐 Follow Us
+[GitHub](https://github.com/) | [LinkedIn](https://linkedin.com/) | [Instagram](https://instagram.com/) | [Facebook](https://facebook.com/) | [YouTube](https://youtube.com/)  
+
+---
+
+© 2025 **Code Vision**. All Rights Reserved.  
+
