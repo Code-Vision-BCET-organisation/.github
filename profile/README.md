@@ -1,3 +1,6 @@
+| [Home](./README.md) | [About Us](AboutUs.md) | [Events](Events.md) | [Members](Members.md) | [Alumni](Alumni.md) | [Gallery](Gallery.md) | [Contact Us](ContactUs.md) |
+|------------------------|------------------------|---------------------|-----------------------|---------------------|-----------------------|----------------------------|
+
 <p align="center">
   <img src="./assets/logo/logo.png" alt="Code Vision Logo" width="200" />
   <br>
