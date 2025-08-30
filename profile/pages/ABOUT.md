@@ -7,19 +7,19 @@
   <a href="../pages/ABOUT.md">
     <img src="https://img.shields.io/badge/About%20Us-FF0000?style=for-the-badge" alt="About Us"/>
   </a>
-  <a href="Events.md">
+  <a href="../pages/EVENTS.md">
     <img src="https://img.shields.io/badge/Events-FF0000?style=for-the-badge" alt="Events"/>
   </a>
-  <a href="Members.md">
+  <a href="../pages/MEMBERS.md">
     <img src="https://img.shields.io/badge/Members-FF0000?style=for-the-badge" alt="Members"/>
   </a>
-  <a href="Alumni.md">
+  <a href="../pages/ALUMNI.md">
     <img src="https://img.shields.io/badge/Alumni-FF0000?style=for-the-badge" alt="Alumni"/>
   </a>
-  <a href="Gallery.md">
+  <a href="../pages/GALLERY.md">
     <img src="https://img.shields.io/badge/Gallery-FF0000?style=for-the-badge" alt="Gallery"/>
   </a>
-  <a href="ContactUs.md">
+  <a href="../pages/CONTACTUS.md">
     <img src="https://img.shields.io/badge/Contact%20Us-FF0000?style=for-the-badge" alt="Contact Us"/>
   </a>
 </p>
@@ -150,11 +150,11 @@ Our goal is to equip members with **skills and connections** to succeed academic
 ## 📚 Explore More
 - [Home](../README.md)  
 - [About Us](../pages/ABOUT.md)  
-- [Events](Events.md)  
-- [Members](Members.md)  
-- [Alumni](Alumni.md)  
-- [Gallery](Gallery.md)  
-- [Contact Us](ContactUs.md)  
+- [Events](../pages/EVENTS.md)  
+- [Members](../pages/MEMBERS.md)  
+- [Alumni](../pages/ALUMNI.md)  
+- [Gallery](../pages/GALLERY.md)  
+- [Contact Us](../pages/CONTACTUS.md)  
 
 ---
 
