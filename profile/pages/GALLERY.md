@@ -66,7 +66,7 @@
   <tr>
     <td><img src="../assets/Gallery/console/console1.png" width="150"></td>
     <td><img src="../assets/Gallery/console/console2.png" width="150"></td>
-    <td><img src="images/console3.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console3.png" width="150"></td>
     <td><img src="images/console4.jpg" width="150"></td>
 
   </tr>
