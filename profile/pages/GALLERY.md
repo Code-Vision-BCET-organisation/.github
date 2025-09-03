@@ -67,27 +67,27 @@
     <td><img src="../assets/Gallery/console/console1.png" width="150"></td>
     <td><img src="../assets/Gallery/console/console2.png" width="150"></td>
     <td><img src="../assets/Gallery/console/console3.png" width="150"></td>
-    <td><img src="images/console4.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console4.png" width="150"></td>
 
   </tr>
   <tr>
-    <td><img src="images/console5.jpg" width="150"></td>
-    <td><img src="images/console6.jpg" width="150"></td>
-    <td><img src="images/console7.jpg" width="150"></td>
-    <td><img src="images/console8.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console5.png" width="150"></td>
+    <td><img src="../assets/Gallery/console/console6.png" width="150"></td>
+    <td><img src="../assets/Gallery/console/console7.png" width="150"></td>
+    <td><img src="../assets/Gallery/console/console8.png" width="150"></td>
 
   </tr>
   <tr>
-    <td><img src="images/console9.jpg" width="150"></td>
-    <td><img src="images/console10.jpg" width="150"></td>
-    <td><img src="images/console11.jpg" width="150"></td>
-    <td><img src="images/console12.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console9.png" width="150"></td>
+    <td><img src="..//assets/Gallery/console/console10.png" width="150"></td>
+    <td><img src="../assets/Gallery/console/console11.png" width="150"></td>
+    <td><img src="../assets/Gallery/console/console12.png" width="150"></td>
   </tr>
   <tr>
-    <td><img src="images/console13.jpg" width="150"></td>
-    <td><img src="images/console14.jpg" width="150"></td>
-    <td><img src="images/console15.jpg" width="150"></td>
-    <td><img src="images/console16.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console13.png" width="150"></td>
+    <td><img src="../assets/Gallery/console/console14.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console15.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/console/console16.jpg" width="150"></td>
   </tr>
 </table>
 
