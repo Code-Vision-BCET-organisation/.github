@@ -96,7 +96,7 @@
 ## 💻 Code Jam  
 <table align="center">
   <tr>
-    <td><img src="images/codejam1.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam1.jpg" width="150"></td>
     <td><img src="images/codejam2.jpg" width="150"></td>
     <td><img src="images/codejam3.jpg" width="150"></td>
     <td><img src="images/codejam4.jpg" width="150"></td>
