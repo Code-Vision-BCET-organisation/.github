@@ -92,13 +92,6 @@ Organized by **Code Vision - An Abode for Coders**
 
 ---
 
-## 🔗 Connect with Us
-- [Instagram](https://instagram.com/codevisionbcet)  
-- [LinkedIn](https://linkedin.com/company/codevision-bcet)  
-- [GitHub](https://github.com/codevision-bcet)  
-
----
-
 💡 *Learn Python from scratch, build real projects, and collaborate with peers to strengthen your coding journey!*
 
 ---
