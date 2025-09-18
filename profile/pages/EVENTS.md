@@ -43,7 +43,7 @@ Organized by **Code Vision - An Abode for Coders**
 ---
 
 ## 🖼️ Poster
-![Python Bootcamp Poster](./poster.png)
+![Python Bootcamp Poster](../assets/Events/PythonWorkshop.jpg)
 
 > 📌 *Scan the QR code in the poster to register!*
 
