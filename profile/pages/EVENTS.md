@@ -36,68 +36,13 @@
 
 # 🚀 Python Bootcamp
 
-<table>
-  <tr>
-    <td width="40%">
-      <h2>🖼️ Poster</h2>
-      <img src="../assets/Events/PythonWorkshop.jpg" alt="Python Bootcamp Poster" width="100%" />
-      <p>📌 <em>Scan the QR code in the poster to register!</em></p>
-    </td>
-    <td width="60%">
-      <h3>Introduce Python programming basics through hands-on coding.</h3>
-      <p><strong>Organized by:</strong> Code Vision - An Abode for Coders</p>
+| 🖼️ Poster | 📄 Event Details |
+|-----------|------------------|
+| ![Python Bootcamp Poster](../assets/Events/PythonWorkshop.jpg)<br><br>📌 *Scan the QR code in the poster to register!* | **Introduce Python programming basics through hands-on coding.** <br><br> **Organized by:** Code Vision - An Abode for Coders <br><br> ### 🎯 Target Audience <br> - First and second year students <br><br> ### ⏳ Duration <br> - **3 Days** (12th - 14th April) <br><br> ### 📚 Agenda <br> - **Introduction**: Overview of Python and its applications <br> - **Basic Data Types**: Numbers, strings, and variables <br> - **Functions**: Defining and using functions in Python <br> - **Control Flow**: If-else statements, loops, and logical operators <br> - **Data Structures**: Lists, tuples, dictionaries, and sets <br> - **OOPs**: Object-Oriented Programming concepts in Python <br> - **Project**: Build a mini Python application to apply the concepts learned <br> - **Hands-on Exercises**: Practical coding tasks for each topic <br> - **Q&A & Peer Collaboration**: Address questions, troubleshoot, and collaborate <br> - **Wrap-Up & Feedback**: Recap, gather feedback, and share resources <br><br> ### 🌟 Extras <br> - Support team for assistance <br> - Handouts and resource links <br> - Continued learning via a follow-up Q&A and networking <br> - **Top performers will be featured on Code Vision social media handles** <br><br> ### 📌 Event Details <br> - **Date**: 12th - 14th April <br> - **Mode**: Offline <br> - **Organizer**: Code Vision (An Abode for Coders) <br><br> ### 📲 Registration <br> - Scan the QR code from the poster to register. <br><br> ### 🔗 Connect with Us <br> - [Instagram](https://instagram.com/codevisionbcet) <br> - [LinkedIn](https://linkedin.com/company/codevision-bcet) <br> - [GitHub](https://github.com/codevision-bcet) |
 
-      <h2>🎯 Target Audience</h2>
-      <ul>
-        <li>First and second year students</li>
-      </ul>
+---
 
-      <h2>⏳ Duration</h2>
-      <p><strong>3 Days</strong> (12th - 14th April)</p>
-
-      <h2>📚 Agenda</h2>
-      <ul>
-        <li><strong>Introduction</strong>: Overview of Python and its applications</li>
-        <li><strong>Basic Data Types</strong>: Numbers, strings, and variables</li>
-        <li><strong>Functions</strong>: Defining and using functions in Python</li>
-        <li><strong>Control Flow</strong>: If-else statements, loops, and logical operators</li>
-        <li><strong>Data Structures</strong>: Lists, tuples, dictionaries, and sets</li>
-        <li><strong>OOPs</strong>: Object-Oriented Programming concepts in Python</li>
-        <li><strong>Project</strong>: Build a mini Python application to apply the concepts learned</li>
-        <li><strong>Hands-on Exercises</strong>: Practical coding tasks for each topic</li>
-        <li><strong>Q&A & Peer Collaboration</strong>: Address questions, troubleshoot, and collaborate</li>
-        <li><strong>Wrap-Up & Feedback</strong>: Recap, gather feedback, and share resources</li>
-      </ul>
-
-      <h2>🌟 Extras</h2>
-      <ul>
-        <li>Support team for assistance</li>
-        <li>Handouts and resource links</li>
-        <li>Option for continued learning via a follow-up Q&A and networking</li>
-        <li><strong>Top performers will be featured on Code Vision social media handles</strong></li>
-      </ul>
-
-      <h2>📌 Event Details</h2>
-      <ul>
-        <li><strong>Date</strong>: 12th - 14th April</li>
-        <li><strong>Mode</strong>: Offline</li>
-        <li><strong>Organizer</strong>: Code Vision (An Abode for Coders)</li>
-      </ul>
-
-      <h2>📲 Registration</h2>
-      <p>📌 Scan the QR code from the poster to register.</p>
-
-      <h2>🔗 Connect with Us</h2>
-      <ul>
-        <li><a href="https://instagram.com/codevisionbcet">Instagram</a></li>
-        <li><a href="https://linkedin.com/company/codevision-bcet">LinkedIn</a></li>
-        <li><a href="https://github.com/codevision-bcet">GitHub</a></li>
-      </ul>
-
-      <blockquote>💡 Learn Python from scratch, build real projects, and collaborate with peers to strengthen your coding journey!</blockquote>
-    </td>
-  </tr>
-</table>
+💡 *Learn Python from scratch, build real projects, and collaborate with peers to strengthen your coding journey!*
 
 
 
