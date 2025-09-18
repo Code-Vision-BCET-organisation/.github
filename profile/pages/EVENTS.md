@@ -36,77 +36,69 @@
 
 # 🚀 Python Bootcamp
 
-**Introduce Python programming basics through hands-on coding.**
+<table>
+  <tr>
+    <td width="40%">
+      <h2>🖼️ Poster</h2>
+      <img src="../assets/Events/PythonWorkshop.jpg" alt="Python Bootcamp Poster" width="100%" />
+      <p>📌 <em>Scan the QR code in the poster to register!</em></p>
+    </td>
+    <td width="60%">
+      <h3>Introduce Python programming basics through hands-on coding.</h3>
+      <p><strong>Organized by:</strong> Code Vision - An Abode for Coders</p>
 
-Organized by **Code Vision - An Abode for Coders**
+      <h2>🎯 Target Audience</h2>
+      <ul>
+        <li>First and second year students</li>
+      </ul>
 
----
+      <h2>⏳ Duration</h2>
+      <p><strong>3 Days</strong> (12th - 14th April)</p>
 
-## 🖼️ Poster
-![Python Bootcamp Poster](../assets/Events/PythonWorkshop.jpg)
+      <h2>📚 Agenda</h2>
+      <ul>
+        <li><strong>Introduction</strong>: Overview of Python and its applications</li>
+        <li><strong>Basic Data Types</strong>: Numbers, strings, and variables</li>
+        <li><strong>Functions</strong>: Defining and using functions in Python</li>
+        <li><strong>Control Flow</strong>: If-else statements, loops, and logical operators</li>
+        <li><strong>Data Structures</strong>: Lists, tuples, dictionaries, and sets</li>
+        <li><strong>OOPs</strong>: Object-Oriented Programming concepts in Python</li>
+        <li><strong>Project</strong>: Build a mini Python application to apply the concepts learned</li>
+        <li><strong>Hands-on Exercises</strong>: Practical coding tasks for each topic</li>
+        <li><strong>Q&A & Peer Collaboration</strong>: Address questions, troubleshoot, and collaborate</li>
+        <li><strong>Wrap-Up & Feedback</strong>: Recap, gather feedback, and share resources</li>
+      </ul>
 
-> 📌 *Scan the QR code in the poster to register!*
+      <h2>🌟 Extras</h2>
+      <ul>
+        <li>Support team for assistance</li>
+        <li>Handouts and resource links</li>
+        <li>Option for continued learning via a follow-up Q&A and networking</li>
+        <li><strong>Top performers will be featured on Code Vision social media handles</strong></li>
+      </ul>
 
----
+      <h2>📌 Event Details</h2>
+      <ul>
+        <li><strong>Date</strong>: 12th - 14th April</li>
+        <li><strong>Mode</strong>: Offline</li>
+        <li><strong>Organizer</strong>: Code Vision (An Abode for Coders)</li>
+      </ul>
 
-## 🎯 Target Audience
-- First and second year students  
+      <h2>📲 Registration</h2>
+      <p>📌 Scan the QR code from the poster to register.</p>
 
-## ⏳ Duration
-- **3 Days** (12th - 14th April)
+      <h2>🔗 Connect with Us</h2>
+      <ul>
+        <li><a href="https://instagram.com/codevisionbcet">Instagram</a></li>
+        <li><a href="https://linkedin.com/company/codevision-bcet">LinkedIn</a></li>
+        <li><a href="https://github.com/codevision-bcet">GitHub</a></li>
+      </ul>
 
----
+      <blockquote>💡 Learn Python from scratch, build real projects, and collaborate with peers to strengthen your coding journey!</blockquote>
+    </td>
+  </tr>
+</table>
 
-## 📚 Agenda
-
-- **Introduction**: Overview of Python and its applications.  
-- **Basic Data Types**: Numbers, strings, and variables.  
-- **Functions**: Defining and using functions in Python.  
-- **Control Flow**: If-else statements, loops, and logical operators.  
-- **Data Structures**: Lists, tuples, dictionaries, and sets.  
-- **OOPs**: Object-Oriented Programming concepts in Python.  
-- **Project**: Build a mini Python application to apply the concepts learned.  
-- **Hands-on Exercises**: Practical coding tasks for each topic.  
-- **Q&A & Peer Collaboration**: Address questions, troubleshoot, and collaborate.  
-- **Wrap-Up & Feedback**: Recap, gather feedback, and share resources.  
-
----
-
-## 🌟 Extras
-- Support team for assistance.  
-- Handouts and resource links.  
-- Option for continued learning via a follow-up Q&A and networking.  
-- **Top performers will be featured on Code Vision social media handles.**
-
----
-
-## 📌 Event Details
-- **Date**: 12th - 14th April  
-- **Mode**: Offline  
-- **Organizer**: Code Vision (An Abode for Coders)  
-
----
-
-## 📲 Registration
-📌 Scan the QR code from the poster to register.  
-
----
-
-💡 *Learn Python from scratch, build real projects, and collaborate with peers to strengthen your coding journey!*
-
----
-
-# 📘 C Workshop
-_Coming Soon..._
-
-# 🏆 CodeJam
-_Coming Soon..._
-
-# 👥 Recruitment
-_Coming Soon..._
-
-# 💻 Console
-_Coming Soon..._
 
 
 
