@@ -21,7 +21,92 @@
   </a>
 </p>
 
+# <p align="center">🌐Events</p> 
+ <p align="center">Explore our technical events and activities</p> 
 
+
+## 🧭 Navigation Bar
+- [Python Bootcamp](#-python-bootcamp)
+- [C Workshop](#-c-workshop)
+- [CodeJam](#-codejam)
+- [Recruitment](#-recruitment)
+- [Console](#-console)
+
+---
+
+# 🚀 Python Bootcamp
+
+**Introduce Python programming basics through hands-on coding.**
+
+Organized by **Code Vision - An Abode for Coders**
+
+---
+
+## 🖼️ Poster
+![Python Bootcamp Poster](../assets/Events/PythonWorkshop.jpg)
+
+> 📌 *Scan the QR code in the poster to register!*
+
+---
+
+## 🎯 Target Audience
+- First and second year students  
+
+## ⏳ Duration
+- **3 Days** (12th - 14th April)
+
+---
+
+## 📚 Agenda
+
+- **Introduction**: Overview of Python and its applications.  
+- **Basic Data Types**: Numbers, strings, and variables.  
+- **Functions**: Defining and using functions in Python.  
+- **Control Flow**: If-else statements, loops, and logical operators.  
+- **Data Structures**: Lists, tuples, dictionaries, and sets.  
+- **OOPs**: Object-Oriented Programming concepts in Python.  
+- **Project**: Build a mini Python application to apply the concepts learned.  
+- **Hands-on Exercises**: Practical coding tasks for each topic.  
+- **Q&A & Peer Collaboration**: Address questions, troubleshoot, and collaborate.  
+- **Wrap-Up & Feedback**: Recap, gather feedback, and share resources.  
+
+---
+
+## 🌟 Extras
+- Support team for assistance.  
+- Handouts and resource links.  
+- Option for continued learning via a follow-up Q&A and networking.  
+- **Top performers will be featured on Code Vision social media handles.**
+
+---
+
+## 📌 Event Details
+- **Date**: 12th - 14th April  
+- **Mode**: Offline  
+- **Organizer**: Code Vision (An Abode for Coders)  
+
+---
+
+## 📲 Registration
+📌 Scan the QR code from the poster to register.  
+
+---
+
+💡 *Learn Python from scratch, build real projects, and collaborate with peers to strengthen your coding journey!*
+
+---
+
+# 📘 C Workshop
+_Coming Soon..._
+
+# 🏆 CodeJam
+_Coming Soon..._
+
+# 👥 Recruitment
+_Coming Soon..._
+
+# 💻 Console
+_Coming Soon..._
 
 
 
