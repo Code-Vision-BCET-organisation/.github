@@ -98,28 +98,28 @@
   <tr>
     <td><img src="../assets/Gallery/CodeJam/codejam1.jpg" width="150"></td>
     <td><img src="../assets/Gallery/CodeJam/codejam2.jpg" width="150"></td>
-    <td><img src="images/codejam3.jpg" width="150"></td>
-    <td><img src="images/codejam4.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam3.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam4.jpg" width="150"></td>
 
   </tr>
   <tr>
-    <td><img src="images/codejam5.jpg" width="150"></td>
-    <td><img src="images/codejam6.jpg" width="150"></td>
-    <td><img src="images/codejam7.jpg" width="150"></td>
-    <td><img src="images/codejam8.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam5.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam6.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam7.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam8.jpg" width="150"></td>
 
   </tr>
   <tr>
-    <td><img src="images/codejam9.jpg" width="150"></td>
-    <td><img src="images/codejam10.jpg" width="150"></td>
-    <td><img src="images/codejam11.jpg" width="150"></td>
-    <td><img src="images/codejam12.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam9.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam10.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam11.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam12.jpg" width="150"></td>
   </tr>
   <tr>
-    <td><img src="images/codejam13.jpg" width="150"></td>
-    <td><img src="images/codejam14.jpg" width="150"></td>
-    <td><img src="images/codejam15.jpg" width="150"></td>
-    <td><img src="images/codejam16.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam13.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam14.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam15.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/CodeJam/codejam16.jpg" width="150"></td>
   </tr>
 </table>
 
