@@ -128,28 +128,26 @@
 ## 🎓 Farewell  
 <table align="center">
   <tr>
-    <td><img src="images/farewell1.jpg" width="150"></td>
-    <td><img src="images/farewell2.jpg" width="150"></td>
-    <td><img src="images/farewell3.jpg" width="150"></td>
-    <td><img src="images/farewell4.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell1.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell2.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell13.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell7.png" width="150"></td>
   </tr>
   <tr>
-    <td><img src="images/farewell5.jpg" width="150"></td>
-    <td><img src="images/farewell6.jpg" width="150"></td>
-    <td><img src="images/farewell7.jpg" width="150"></td>
-    <td><img src="images/farewell8.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell4.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell5.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell6.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell8.png" width="150"></td>
   </tr>
   <tr>
-    <td><img src="images/farewell9.jpg" width="150"></td>
-    <td><img src="images/farewell10.jpg" width="150"></td>
-    <td><img src="images/farewell11.jpg" width="150"></td>
-    <td><img src="images/farewell12.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell9.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell10.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell11.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell12.png" width="150"></td>
   </tr>
   <tr>
-    <td><img src="images/farewell13.jpg" width="150"></td>
-    <td><img src="images/farewell14.jpg" width="150"></td>
-    <td><img src="images/farewell15.jpg" width="150"></td>
-    <td><img src="images/farewell16.jpg" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell13.png" width="150"></td>
+    <td><img src="../assets/Gallery/Farewell/farewell14.png" width="150"></td>
   </tr>
 </table>
 
